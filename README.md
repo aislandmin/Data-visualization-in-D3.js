@@ -17,7 +17,7 @@ Use D3.js to create charts from the provided data
 
 - Screenshot
 
-  <img src="/screenshots/Project1.jpg" style="width:35%; height:35%;">
+  <img src="/screenshots/Project1.JPG" style="width:35%; height:35%;">
 
 ---
 
@@ -55,7 +55,7 @@ Animation using d3.interval() that loops through the years by calling an update(
 
 - Screenshot
 
-  <img src="/screenshots/Project2.jpg" style="width:35%; height:35%;">
+  <img src="/screenshots/Project2.JPG" style="width:35%; height:35%;">
 
 ---
 
@@ -90,7 +90,7 @@ Responsive and clean layout with updated labels and data filtering logic
 
 - Screenshot
 
-<img src="/screenshots/Project3.jpg" style="width:35%; height:35%;">
+<img src="/screenshots/Project3.JPG" style="width:35%; height:35%;">
 
 ---
 
